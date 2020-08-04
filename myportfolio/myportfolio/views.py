@@ -5,3 +5,6 @@ def HomePage(request):
 
 def about(request):
     return HttpResponse('about')
+
+def resume(request):
+    return HttpResponse('place your resume here')
