@@ -303,6 +303,16 @@ ul#nav li.current a { color: #F06000; }
    margin-top: 5px;
 }
 
+.imgContainer2{
+   float:left;
+   text-align: center;
+   margin-left: 5px;
+   margin-right: 5px;
+   margin-bottom: 5px;
+   margin-top: 5px;
+   border-radius: 100%;
+}
+
 .bars {
 	width: 95%;
 	float: left;
@@ -658,7 +668,7 @@ call-to-action .button {
 
 #Organizations {
    /*background: #1F1F1F url(../images/header.jpg) no-repeat center center;*/
-   background: #ebeeee;
+   background: #ffffff;
    padding-top: 90px;
    padding-bottom: 60px;
    background-size: cover !important;
